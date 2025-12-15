@@ -1,6 +1,3 @@
-# E-Commerce-RTO-Prediction-with-Random-Forest-Threshold-Optimization
-Predicting e-commerce Return-to-Origin (RTO) risk using Random Forest, threshold optimization, and SHAP-based explainability.
-
 # E-Commerce RTO Prediction with Random Forest
 
 This project builds a machine learning pipeline to predict **Return-to-Origin (RTO)** risk for e-commerce orders before delivery.  
